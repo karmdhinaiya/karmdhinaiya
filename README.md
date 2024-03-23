@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karmdhinaiya
 - 👀 I’m interested in Coding and Game dev.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to get job in good company
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to get job in good company in future.
 - 📫 How to reach me [Gmail - karmdhinaiya@gmail.com]
 
 <!---
